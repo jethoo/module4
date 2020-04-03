@@ -1,0 +1,50 @@
+{
+    "products": [
+       { 
+            "name": "A cat butt tissue holder",
+            "price": "$34.94",
+            "image": "cat.jpg",
+            "details": [
+                            "Nicest thing",
+                            "to be plucked from cat's rear"
+                        ]   
+       },
+       {
+
+            "name": "A bacon-scented mustache",
+            "price": "$4.07",
+            "image": "bacon.jpg",
+            "details": [
+                            "Now you can smell bacon all day in peace",
+                            "Its scent hidden in an inconspicuous piece of facial hair"
+                       ]
+        },
+        {
+            "name": "A bean-squeezing stress reliever",
+            "price": "$8.99",
+            "image": "bean.jpg",
+            "details": [
+                            "Nothing quite relieves stress",
+                            "like popping a cute little emoji-faced bean out of a pod-right?"
+                       ]
+        },
+        {
+            "name": "A Godzilla garden gnome",
+            "price": "$24.99",
+            "image": "gnome.jpg",
+            "details": [
+                            "Let those pesky, roving neighborhood gnomes know where they're not welcome",
+                            "(A series of big-budget, narratively lackluster sequels not included.)"
+                       ]
+        },
+        {
+            "name": "A home mushroom farm",
+            "price": "$22.85",
+            "image": "mushroom.jpg",
+            "details": [
+                            "Now you can grow your own fungus right at home-",
+                            "and not in between your toes!"
+                       ]
+        }
+    ]
+}
